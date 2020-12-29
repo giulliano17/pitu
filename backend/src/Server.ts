@@ -9,5 +9,5 @@ database.sync();
 console.log('Database running at 3306'); 
 
 app.listen(port, () => {
-    console.log(`Example app host at http://localhost:${port}`)
+    console.log(`Example app  host at http://localhost:${port}`)
 })
